@@ -13,7 +13,7 @@ Here are some ideas to get you started:
   <img src= "passport size pic.jpg" alt="Banner" width="300" height="330"/>
 </p>
 
-<h1 align="center">Hi there 👋, I'm Sikander Singh</h1>
+<h1 align="center">Hi there 👋, I'm Sikander Singh </h1>
 
 <p align="center">
   <i>Aspiring Web Developer | Learning MERN Stack | Interested in AI and Coding</i>
