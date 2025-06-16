@@ -52,7 +52,7 @@ Here are some ideas to get you started:
 
 <p align="center">
   <img src="https://www.google.com/imgres?q=github%20repository%20github%20readme%20streak%20stats&imgurl=https%3A%2F%2Fcamo.githubusercontent.com%2F550b51fe2b2253da0c4ab0e9ea8c11365eef46f67428677d7a23c8f4890a74da%2F68747470733a2f2f692e696d6775722e636f6d2f625572736a6c702e706e67&imgrefurl=https%3A%2F%2Fgithub.com%2FDenverCoder1%2Fgithub-readme-streak-stats&docid=Wb4Zirl_0QspQM&tbnid=LCQpxAQ7x6XHfM&vet=12ahUKEwjI05TV-faNAxWvcWwGHdDrKsoQM3oECB0QAA..i&w=495&h=195&hcb=2&ved=2ahUKEwjI05TV-faNAxWvcWwGHdDrKsoQM3oECB0QAA" />
-<!--   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sikander-username&layout=compact&theme=tokyonight" /> -->
+  <img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fgithub.com%2Fanuraghazra%2Fgithub-readme-stats%2Fissues%2F1871&psig=AOvVaw0Sdg3uLqko_FP2qYaJtXNd&ust=1750198060574000&source=images&cd=vfe&opi=89978449&ved=0CBUQjRxqFwoTCODT34P69o0DFQAAAAAdAAAAABAD" />
 </p>
 
 ---
