@@ -10,7 +10,7 @@ Here are some ideas to get you started:
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...<!-- Banner Image -->
 <p align="center">
-  <img src="[https://your-image-link.com/banner.png](https://unsplash.com/photos/black-and-white-penguin-toy-wX2L8L-fGeA)" alt="Banner" />
+  <img src="sikandersingh18/passport_size_pic.jpg" alt="Banner" />
 </p>
 
 <h1 align="center">Hi there 👋, I'm Sikander Singh</h1>
