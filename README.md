@@ -33,15 +33,7 @@ Here are some ideas to get you started:
 ### 🚀 Tech Stack
 
 <p>
-  <img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fcdnlogo.com%2Flogo%2Freact_39944.html&psig=AOvVaw06QAFU_nOHtL2ZbLUDDs6c&ust=1749821883114000&source=images&cd=vfe&opi=89978449&ved=0CBUQjRxqFwoTCLix4s-A7I0DFQAAAAAdAAAAABAE" />
   <img src = "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fgepoik9gghpcp69ovmpo.png"
-  <img src="https://github-readme-tech-stack.vercel.app/api/cards?lineCount=1" alt="My Tech Stack" />
-  <img src="https://img.shields.io/badge/-CSS3-1572B6?logo=css3&logoColor=fff&style=flat" />
-  <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=000&style=flat" />
-  <img src="https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=000&style=flat" />
-  <img src="https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=fff&style=flat" />
-  <img src="https://img.shields.io/badge/-MySQL-4479A1?logo=mysql&logoColor=fff&style=flat" />
-  <img src="https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=lat" />
 </p>
 
 ---
@@ -50,7 +42,7 @@ Here are some ideas to get you started:
 
 | Project | Description | Tech Stack | Live |
 |--------|-------------|------------|------|
-| `eFusion ODOP` | Platform for artisans under ODOP | React, Node.js, MongoDB | [Live](https://example.com) |
+| `eFusion ODOP` | Platform for artisans under ODOP | React, Node.js, MongoDB | [Live](https://odop-sih-fusionforce.netlify.app/) |
 | `CRM Dashboard` | Campaign/segment builder, analytics | React, Tailwind, REST API | [Live](https://example.com) |
 | `AI FAQ Bot` | Smart Q&A chatbot with decision trees | HTML, JS, Flask | [Live](https://example.com) |
 
